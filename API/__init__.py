@@ -1,5 +1,3 @@
-from unittest import result
-from pytest import Session
 import requests, json, re, time, Config
 from bs4 import BeautifulSoup as BS
 
